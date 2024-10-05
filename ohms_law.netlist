@@ -1,0 +1,7 @@
+My circuit
+vcc a 0 dc 12v
+r1 a 0 4
+ 
+.op
+
+.end
