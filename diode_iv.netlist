@@ -1,0 +1,7 @@
+.title KiCad schematic
+.model My_Generic_Diode D
+.probe alli
+.dc V1 0 800m 10m
+D1 q GND My_Generic_Diode
+V1 q GND DC 5 
+.end
