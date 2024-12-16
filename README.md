@@ -2,6 +2,9 @@ ngspice-netlists-collection
 ===========================
 DO NOT USE NGSPICE LOCALLY. Use [EEcircuit](https://eecircuit.com/)
 
+### Manual
+- https://ngspice.sourceforge.io/docs/ngspice-manual.pdf
+
 ### TODOs
 - [ ] [dirkarnez/my-web-ngspice](https://github.com/dirkarnez/my-web-ngspice)
 
