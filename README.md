@@ -4,6 +4,7 @@ DO NOT USE NGSPICE LOCALLY. Use [EEcircuit](https://eecircuit.com/)
 
 ### Manual
 - https://ngspice.sourceforge.io/docs/ngspice-manual.pdf
+- https://web.stanford.edu/class/ee133/handouts/general/spice_ref.pdf
 
 ### TODOs
 - [ ] [dirkarnez/my-web-ngspice](https://github.com/dirkarnez/my-web-ngspice)
